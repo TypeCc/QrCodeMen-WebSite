@@ -1,4 +1,4 @@
-# QrCodeMen-WebSite
+# QrCodeMenu-WebSite
 
 https://restaurant-menu.serif-mete.online
 
